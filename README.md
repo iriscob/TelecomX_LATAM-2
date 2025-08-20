@@ -33,7 +33,7 @@ Predecir si un cliente dejará el servicio (churn) basado en características co
 
     Carga y preprocesa los datos
     Entrena el modelo o usa el ya guardado
-    Ejecuta script_prediccion.py para predecir churn en nuevos clientes
+    Ejecuta script de prediccion para predecir churn en nuevos clientes
      
 
  
