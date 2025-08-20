@@ -27,3 +27,15 @@ Predecir si un cliente dejará el servicio (churn) basado en características co
     Identificación de variables clave: Contract_Month-to-month, tenure, Charges.Monthly, InternetService_Fiber optic
  
 📁 Estructura del repositorio 
+
+
+🚀 ¿Cómo usar este proyecto? 
+
+    Carga y preprocesa los datos
+    Entrena el modelo o usa el ya guardado
+    Ejecuta script_prediccion.py para predecir churn en nuevos clientes
+     
+
+ 
+
+     
