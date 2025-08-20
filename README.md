@@ -16,7 +16,7 @@ Predecir si un cliente dejará el servicio (churn) basado en características co
 🧰 Tecnologías utilizadas 
 
     Python (pandas, scikit-learn, matplotlib, seaborn)
-    Machine Learning: Random Forest, Regresión Logística
+    Machine Learning: Random Forest, Regresión
     Preprocesamiento: Limpieza de datos, One-Hot Encoding, conversión a numérico
     Validación: AUC-ROC, matriz de confusión, validación cruzada
  
