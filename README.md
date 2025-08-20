@@ -1,4 +1,4 @@
-# TelecomX_LATAM-2
+# TelecomX_LATAM - PARTE 2
 Telecom X: análisis de evasión de clientes - Parte 2
 Análisis de Churn (Deserción de Clientes) 
 
